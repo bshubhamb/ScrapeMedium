@@ -12,7 +12,7 @@
     "cheerio": "^1.0.0-rc.3",
     "csv-express": "^1.2.2",
     "express": "^4.17.1",
-    "mongoose": "^5.6.5",
+    "mongoose": "^5.7.5",
     "request": "^2.88.0"
   }
 }
